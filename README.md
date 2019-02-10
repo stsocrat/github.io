@@ -1,2 +1,2 @@
-# github.io
+# stsocrat.github.io
 socrat club project
